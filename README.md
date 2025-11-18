@@ -45,6 +45,7 @@
 
 		
 📈 Key Insights
+
 	1.  Rank players in each season by points, rebounds, assists per game.
 	
 		1.Most points ever scored in a single season is by James Harden(36.1 points) Followed by Kobe Bryant(35.4)
